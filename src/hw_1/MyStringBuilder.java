@@ -1,3 +1,5 @@
+package hw_1;
+
 import java.util.ArrayDeque;
 import java.util.Deque;
 
@@ -50,6 +52,6 @@ public class MyStringBuilder {
 
     @Override
     public String toString() {
-        return "MyStringBuilder =" + stringBuilder;
+        return "HW_1.MyStringBuilder = " + stringBuilder;
     }
 }

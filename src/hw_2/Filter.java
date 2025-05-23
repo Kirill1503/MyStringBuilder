@@ -1,4 +1,5 @@
-package HW_2;
+package hw_2;
 
-public interface Filter {
+public interface Filter<T> {
+    T apply(T o);
 }

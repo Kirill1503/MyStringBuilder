@@ -1,4 +1,4 @@
-package HW_2;
+package hw_2;
 
 public class FilterImpl<T extends Number> implements Filter<T> {
     @Override
